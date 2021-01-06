@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\process"
+    "\\assets\\css",
+    "\\process",
+    "\\projects"
   ],
-  "SelectedNode": "\\process\\index.html",
+  "SelectedNode": "\\projects\\index.html",
   "PreviewInSolutionExplorer": false
 }
